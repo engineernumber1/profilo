@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+*.log.*
+*.access
+*.error
+
+# Environment
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+__venv__/
+env/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Dependencies
+# Add any specific dependencies you want to ignore (e.g., virtual environment)
+
+# Other
+db.sqlite
+instance/
+*.pyo
+*.swp
+
+
+.idea
